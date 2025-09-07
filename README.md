@@ -120,7 +120,7 @@ It bridges the gap between **traditional rigid surveys** and **modern intelligen
 - Nishant Sankar Swain (Team Leader)
 - Pratik Mohanty
 - Rabi Narayan Das
-- -Naresh Kumar Sahoo
+- Naresh Kumar Sahoo
 - Shreya Sannidhi Das
   
 🎓 From: ITER, SOA University, Bhubaneswar
